@@ -1,0 +1,2 @@
+# Predicting-Credit-Card-Fraud
+Company is interested to implement a machine learning model that will identify fraudulent transactions. The data set provided contains 30 features and 284,807 records. The V-Columns represent components from Principal Component Analysis, the variable labeled Amount unchanged, the variable Class is although numerical (ready for modelling) has 1 which refers to fraudulent transaction whereas 0 is non-fraudulent.
